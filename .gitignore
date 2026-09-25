@@ -3,3 +3,6 @@
 
 # Excluir configuraciones del entorno en vscode
 /.vscode/
+
+# Excluir información de CatBoost
+/catboost_info/
